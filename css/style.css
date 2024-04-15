@@ -458,7 +458,7 @@ display:none;}
 
 .scroll{position:absolute;
 bottom:20px;
-width:6px;
+width:35px;
 height:135px;
 right:433px;
 z-index:500;
@@ -490,8 +490,8 @@ border-radius:3px;
     margin-top: -5px;}
 
 .scrollHandle,.justScrollHandle{position:absolute;
-width:20px;
-height:20px;
+width:50px;
+height:50px;
 border-radius:100%;
 background:#ff0037;
 left:-7px;
